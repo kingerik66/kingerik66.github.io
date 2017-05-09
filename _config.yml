@@ -7,9 +7,9 @@
 
 # Site settings
 title: Hi Love!
-email: your-email@domain.com
+email: ashley@loveyoumore.com
 description: > # this means to ignore newlines until "baseurl:"
-  Why are you googling my site?
+   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ashley-iloveyoumore.com" # the base hostname & protocol for your site
 twitter_username: stillloveyoumore
